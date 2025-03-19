@@ -1,2 +1,2 @@
-# Unlocking-Growth-Potential-in-Conagra-s-Meat-Substitute-Category
+# Unlocking Growth Potential in Conagra Meat Substitute Category
 This repo explores Conagra's expansion into plant-based foods via Gardein, aligning with health and sustainability trends. It analyzes consumer preferences in frozen and refrigerated segments to refine pricing, optimize product mix, and enhance competitiveness. Key focus: flexitarians, clean ingredients, and market drivers like health and ethics.
